@@ -6,4 +6,4 @@ Practice typography by building a nutrition label.
 - HTML
 - CSS
 # Hosted Page
-The page is hosted at https://vanessuniq.github.io/nutrition_label/
+The page is hosted at https://vanessuniq.github.io/nutrition_label/index
