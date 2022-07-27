@@ -17,8 +17,6 @@ p {
     margin: 0;
 }
 
-p {}
-
 
 /* Label section */
 
@@ -84,8 +82,6 @@ header h1 {
 
 
 /* Daily value div */
-
-.daily-value {}
 
 .daily-value p:not(.no-divider) {
     border-bottom: 1px solid #888976
