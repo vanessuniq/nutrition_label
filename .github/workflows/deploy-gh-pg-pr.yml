@@ -8,6 +8,10 @@ on:
       - reopened
       - synchronize
       - closed
+    path:
+      - 'docs/**'
+      - '**.md'
+      - '**.html'
 
 concurrency: preview-${{ github.ref }}
 
