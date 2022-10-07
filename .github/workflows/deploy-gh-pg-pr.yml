@@ -8,7 +8,7 @@ on:
       - reopened
       - synchronize
       - closed
-    path:
+    paths:
       - 'docs/**'
       - '**.md'
       - '**.html'
